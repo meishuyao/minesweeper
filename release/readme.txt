@@ -1,5 +1,5 @@
 扫雷
-@copyright 梅树尧
+@copyright meishuyao
 
 操作：
 1.左键开始游戏。
