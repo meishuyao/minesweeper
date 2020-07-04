@@ -1,2 +1,2 @@
 # minesweeper
-homework for c course
+ homework for c course
